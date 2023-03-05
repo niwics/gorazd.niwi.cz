@@ -4,7 +4,7 @@
     const referenceWebs = {
         'https://www.iklubovna.cz': ['iklubovna', 'iKlubovna.cz', 'Children community website'],
         'http://www.niwi.cz': ['niwi', 'Niwi.cz', 'Author\'s personal website'],
-        'http://geo.niwi.cz': ['geo', 'GEO symbols', 'Database of Czech geodetic symbols'],
+        'https://geo.niwi.cz': ['geo', 'GEO symbols', 'Database of Czech geodetic symbols'],
         'https://www.spjf.cz': ['spjf', 'SPJF', 'Children organisation'],
         'https://www.dlouhodobka.cz': ['dlouhodobka', 'Dlouhodobky', 'Long-term games for children teams'],
         'http://obchod.spjf.cz': ['obchod', 'E-shop SPJF', 'SPJF organisation e-shop']
